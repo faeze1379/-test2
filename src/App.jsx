@@ -14,7 +14,7 @@ class App extends React.Component {
                id:"2"
                },
                {
-                  name:"zohre",
+                  name:"zohre khadem",
                id:"3"
                }
               
