@@ -6,7 +6,7 @@ class App extends React.Component {
       this.state = {
          arr:[
             {
-               name:"faeze",
+               name:"faeze firozi",
                id:"1"
                },
                {
